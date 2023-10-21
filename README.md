@@ -11,3 +11,4 @@
 ## Contact Me 📬
 
 - LinkedIn: [Link](https://www.linkedin.com/in/manpreet-singh-cse/)
+- Digital Portfolio [Link](https://msingh-cse.github.io/)
