@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-- 🔭 I'm currently pursuing a Master's in Computer Science with a focus on Machine learning and Deep learning.
+- 🔭 I recently completed my Master's in Computer Science with a focus on Machine Learning and Deep Learning.
 - 🌱 I'm passionate about AI, particularly in the domains of NLP, LLMs, Neural network interpretation.
 - 👯 I've worked on diverse project areas, including Machine Learning, Deep Learning, Web development, Game development, Blockchain Development.
 
