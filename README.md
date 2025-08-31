@@ -1,1 +1,1 @@
-Machine Learning Research Engineer exploring Natural Language Processing.
+ML Research Engineer passionate about advancing NLP and intelligent systems.
